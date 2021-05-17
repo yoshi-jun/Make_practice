@@ -1,0 +1,3 @@
+/home/test-man/Documents/Make_practice/MakeTes_02/build/CMakeFiles/rebuild_cache.dir
+/home/test-man/Documents/Make_practice/MakeTes_02/build/CMakeFiles/edit_cache.dir
+/home/test-man/Documents/Make_practice/MakeTes_02/build/CMakeFiles/a.out.dir
